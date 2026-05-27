@@ -57,7 +57,7 @@ function Dashboard() {
           <Sparkles className="h-3.5 w-3.5" /> Welcome back
         </div>
         <h2 className="mt-2 text-2xl font-semibold tracking-tight md:text-3xl">
-          Let's get your day moving.
+          Nicholas P Hlatshwayo
         </h2>
         <p className="mt-2 max-w-2xl text-sm text-muted-foreground">
           Nicholas P Hlathwayo helps you draft, summarize, plan, and research — so you can spend
