@@ -92,7 +92,7 @@ export function AppLayout({
 
         <footer className="border-t bg-background/60 px-4 py-4 text-center text-xs text-muted-foreground md:px-8">
           AI outputs may be inaccurate. Always review before sending or sharing. ·
-          Lumen does not replace human judgment.
+          Nicholas P Hlathwayo does not replace human judgment.
         </footer>
       </div>
     </div>
@@ -112,12 +112,12 @@ function SidebarContent({
         <Link
           to="/"
           onClick={onNavigate}
-          className="flex items-center gap-2 font-semibold text-sidebar-foreground"
+          className="flex min-w-0 items-center gap-2 font-semibold text-sidebar-foreground"
         >
-          <div className="flex h-8 w-8 items-center justify-center rounded-md bg-primary text-primary-foreground">
+          <div className="flex h-8 w-8 shrink-0 items-center justify-center rounded-md bg-primary text-primary-foreground">
             <Sparkles className="h-4 w-4" />
           </div>
-          Lumen
+          <span className="truncate">Nicholas P Hlathwayo</span>
         </Link>
         {onNavigate && (
           <button onClick={onNavigate} className="lg:hidden" aria-label="Close menu">

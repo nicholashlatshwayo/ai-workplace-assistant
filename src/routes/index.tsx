@@ -60,7 +60,7 @@ function Dashboard() {
           Let's get your day moving.
         </h2>
         <p className="mt-2 max-w-2xl text-sm text-muted-foreground">
-          Lumen helps you draft, summarize, plan, and research — so you can spend
+          Nicholas P Hlathwayo helps you draft, summarize, plan, and research — so you can spend
           less time on busywork and more on the work that matters.
         </p>
       </section>
@@ -113,7 +113,7 @@ function Dashboard() {
       </section>
 
       <section className="mt-8 rounded-lg border bg-muted/30 p-4 text-xs text-muted-foreground">
-        <strong className="text-foreground">Responsible AI:</strong> Lumen
+        <strong className="text-foreground">Responsible AI:</strong> Nicholas P Hlathwayo
         generates suggestions, not facts. Review outputs for accuracy, bias, and
         sensitive content before sharing. Avoid pasting confidential data.
       </section>

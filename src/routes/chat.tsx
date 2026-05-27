@@ -18,7 +18,7 @@ const STARTER: Message[] = [
   {
     role: "assistant",
     content:
-      "Hi! I'm Lumen. Ask me to draft something, plan your day, brainstorm, or summarize. What can I help with?",
+      "Hi! I'm Nicholas P Hlathwayo. Ask me to draft something, plan your day, brainstorm, or summarize. What can I help with?",
   },
 ];
 
@@ -73,7 +73,7 @@ function ChatPage() {
               value={input}
               onChange={(e) => setInput(e.target.value)}
               onKeyDown={onKeyDown}
-              placeholder="Message Lumen… (Enter to send, Shift+Enter for new line)"
+              placeholder="Message Nicholas P Hlathwayo… (Enter to send, Shift+Enter for new line)"
               className="min-h-12 max-h-40 resize-none"
               rows={1}
             />
