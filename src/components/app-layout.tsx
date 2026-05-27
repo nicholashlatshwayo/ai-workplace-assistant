@@ -90,9 +90,13 @@ export function AppLayout({
 
         <main className="px-4 py-6 md:px-8 md:py-8">{children}</main>
 
-        <footer className="border-t bg-background/60 px-4 py-4 text-center text-xs text-muted-foreground md:px-8">
-          AI outputs may be inaccurate. Always review before sending or sharing. ·
-          Nicholas P Hlathwayo does not replace human judgment.
+        <footer className="border-t bg-background/60 px-4 py-6 text-center text-xs text-muted-foreground md:px-8">
+          <p className="max-w-2xl mx-auto leading-relaxed">
+            © 2026 AI Workplace Productivity Assistant | Developed by Nicholas P Hlatshwayo | All Rights Reserved
+          </p>
+          <p className="mt-2 max-w-2xl mx-auto leading-relaxed opacity-80">
+            AI outputs may be inaccurate. Always review before sending or sharing.
+          </p>
         </footer>
       </div>
     </div>
