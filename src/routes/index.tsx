@@ -113,7 +113,7 @@ function Dashboard() {
       </section>
 
       <section className="mt-8 rounded-lg border bg-muted/30 p-4 text-xs text-muted-foreground">
-        <strong className="text-foreground">Responsible AI:</strong> Nicholas P Hlathwayo
+        <strong className="text-foreground">Responsible AI:</strong> This tool
         generates suggestions, not facts. Review outputs for accuracy, bias, and
         sensitive content before sharing. Avoid pasting confidential data.
       </section>
