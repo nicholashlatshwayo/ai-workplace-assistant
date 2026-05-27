@@ -66,14 +66,14 @@ export const Route = createRootRouteWithContext<{ queryClient: QueryClient }>()(
     meta: [
       { charSet: "utf-8" },
       { name: "viewport", content: "width=device-width, initial-scale=1" },
-      { title: "Lumen — AI Workplace Productivity Assistant" },
+      { title: "Nicholas P Hlathwayo — AI Workplace Productivity Assistant" },
       {
         name: "description",
         content:
           "Automate email, meetings, tasks, research, and chat with an AI workplace assistant built for professionals.",
       },
-      { property: "og:title", content: "Lumen — AI Workplace Productivity Assistant" },
-      { name: "twitter:title", content: "Lumen — AI Workplace Productivity Assistant" },
+      { property: "og:title", content: "Nicholas P Hlathwayo — AI Workplace Productivity Assistant" },
+      { name: "twitter:title", content: "Nicholas P Hlathwayo — AI Workplace Productivity Assistant" },
       { name: "description", content: "AI Workplace Assistant automates professional tasks with AI-powered tools for enhanced productivity." },
       { property: "og:description", content: "AI Workplace Assistant automates professional tasks with AI-powered tools for enhanced productivity." },
       { name: "twitter:description", content: "AI Workplace Assistant automates professional tasks with AI-powered tools for enhanced productivity." },
