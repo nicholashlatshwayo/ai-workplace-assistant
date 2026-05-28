@@ -136,4 +136,4 @@ This assistant generates **suggestions, not facts**. Always:
 
 ## Author
 
-**Nicholas P Hlathwayo** — AI Skill Accelerator Programme, CAPACITI.
+**Nicholas P Hlatshwayo** — AI Skill Accelerator Programme, CAPACITI.
