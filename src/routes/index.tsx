@@ -54,10 +54,10 @@ function Dashboard() {
     >
       <section className="rounded-xl border bg-gradient-to-br from-primary/5 via-background to-background p-6 md:p-8">
         <div className="flex items-center gap-2 text-xs font-medium uppercase tracking-wide text-primary">
-          <Sparkles className="h-3.5 w-3.5" /> Welcome to AI-powered-assistant
+          <Sparkles className="h-3.5 w-3.5" /> Nicholas P Hlatshwayo
         </div>
         <h2 className="mt-2 text-2xl font-semibold tracking-tight md:text-3xl">
-          Welcome to AI-powered-assistant
+          Nicholas P Hlatshwayo
         </h2>
         <p className="mt-2 max-w-2xl text-sm text-muted-foreground">
           Your AI assistant helps you draft, summarize, plan, and research — so you can spend
